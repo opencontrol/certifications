@@ -1,0 +1,9 @@
+schema_version: "1.0.0"
+name: FedRAMP Certifications
+metadata:
+  description: "FedRAMP specific certification templates"
+  maintainers:
+    - gabriel.ramirez@gsa.gov
+certifications:
+  - ./FedRAMP-low.yaml
+  - ./FedRAMP-moderate.yaml
