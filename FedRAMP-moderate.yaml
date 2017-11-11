@@ -1,3 +1,7 @@
+# Based off the FedRAMP Moderate Security Controls
+# Current as of 18-MAY-2016
+# Last (re)validation: 11-NOV-2017
+# https://www.fedramp.gov/resources/documents-2016/
 name: FedRAMP-med
 standards:
   NIST-800-53:
@@ -5,7 +9,6 @@ standards:
     AC-2: {}
     AC-2 (1): {}
     AC-2 (2): {}
-    AC-2 (3): {}
     AC-2 (3): {}
     AC-2 (4): {}
     AC-2 (5): {}
