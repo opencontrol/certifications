@@ -1,5 +1,5 @@
-# FedRAMP-Certifications
-GSA Specific Certifications for [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
+# Certifications
+Certification control selections in OpenControl formats.
 
 To import these data into a OpenControl project add the follow code to your opencontrol.yaml file.
 ```yaml
