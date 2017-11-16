@@ -3,7 +3,9 @@ name: FedRAMP Certifications
 metadata:
   description: "FedRAMP specific certification templates"
   maintainers:
-    - gabriel.ramirez@gsa.gov
+    - Gabriel Ramirez (gabriel.ramirez@gsa.gov)
+    - Shawn Wells (shawn@redhat.com)
 certifications:
   - ./FedRAMP-low.yaml
   - ./FedRAMP-moderate.yaml
+  - ./FedRAMP-high.yaml
