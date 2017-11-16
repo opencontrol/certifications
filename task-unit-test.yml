@@ -1,6 +1,0 @@
-platform: linux
-image: docker:///opencontrol/spruce
-inputs:
-- name: certifications
-run:
-  path: certifications/unit-test.sh
