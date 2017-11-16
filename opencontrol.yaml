@@ -1,9 +1,8 @@
 schema_version: "1.0.0"
 name: FedRAMP Certifications
 metadata:
-  description: "FedRAMP specific certification templates"
+  description: "Control selections for known certifications in OpenControl format."
   maintainers:
-    - Gabriel Ramirez (gabriel.ramirez@gsa.gov)
     - Shawn Wells (shawn@redhat.com)
 certifications:
   - ./FedRAMP-low.yaml
