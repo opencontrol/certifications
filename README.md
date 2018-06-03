@@ -5,7 +5,7 @@ To import these data into a OpenControl project add the follow code to your open
 ```yaml
 dependencies:
   certifications:
-    - url: https://github.com/opencontrol/FedRAMP-Certifications
+    - url: https://github.com/opencontrol/certifications
       revision: master
 ```
 
