@@ -1,0 +1,10 @@
+schema_version: "1.0.0"
+name: FedRAMP Certifications
+metadata:
+  description: "Control selections for known certifications in OpenControl format."
+  maintainers:
+    - Shawn Wells (shawn@redhat.com)
+certifications:
+  - ./FedRAMP-low.yaml
+  - ./FedRAMP-moderate.yaml
+  - ./FedRAMP-high.yaml
