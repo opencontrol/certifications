@@ -10,6 +10,6 @@ certifications:
   - ./fedramp-moderate.yaml
   - ./fedramp-high.yaml
   - ./dhs-4300a.yaml
-  - ./ICD503-low.yaml
-  - ./ICD503-moderate.yaml
-  - ./ICD503-high.yaml
+  - ./icd-503-low.yaml
+  - ./icd-503-moderate.yaml
+  - ./icd-503-high.yaml
