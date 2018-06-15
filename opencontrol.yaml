@@ -4,8 +4,12 @@ metadata:
   description: "Certifications in OpenControl format."
   maintainers:
     - Shawn Wells (shawn@redhat.com)
+    - Mark Shoger (mshoger@redhat.com)
 certifications:
   - ./fedramp-low.yaml
   - ./fedramp-moderate.yaml
   - ./fedramp-high.yaml
   - ./dhs-4300a.yaml
+  - ./ICD503-low.yaml
+  - ./ICD503-moderate.yaml
+  - ./ICD503-high.yaml
