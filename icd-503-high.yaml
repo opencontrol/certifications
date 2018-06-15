@@ -2,7 +2,7 @@
 # Current as of 15-June-2018
 # Maintained by Mark Shoger (mshoger@redhat.com)
 # https://www.dni.gov/files/documents/ICD/ICD_503.pdf
-name: ICD-503 H-H-H
+name: ICD 503 H-H-H
 standards:
   NIST-800-53:
     AC-1: {}
