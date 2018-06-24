@@ -5,7 +5,7 @@
 # Found on Page D-2 of NIST 800-53 rev 4:
 # https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf
 #
-name: FISMA Low Impact
+name: FISMA Moderate Impact
 standards:
 
   NIST-800-53:
@@ -16,6 +16,8 @@ standards:
     AC-2 (3): {}
     AC-2 (4): {}
     AC-3: {}
+    AC-4: {}
+    AC-5: {}
     AC-6 (1): {}
     AC-6 (2): {}
     AC-6 (5): {}
@@ -250,4 +252,4 @@ standards:
     SI-10: {}
     SI-11: {}
     SI-12: {}
-    SI-18: {}
+    SI-16: {}
