@@ -12,7 +12,7 @@ dependencies:
 Once imported into your OpenControl content, [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) and [FedRAMP Templater](https://github.com/opencontrol/fedramp-templater) can be used to generate template System Security Plans (SSPs):
 ```
 compliance-masonry get
-compliance-masonry docs gitbook fedram-high
+compliance-masonry docs gitbook fedramp-high
 fedramp-templater fill opencontrols/ ./path_to_fedramp_templates/FedRAMP-System-Security-Plan-Template-v2.1.docx exports/FedRAMP-filled.docx
 ```
 
