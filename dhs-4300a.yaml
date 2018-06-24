@@ -4,7 +4,7 @@
 # Current as of 17-JAN-2017
 # Last (re)validation: 17-JAN-2017
 #
-name: DHS-4300A
+name: DHS 4300A
 standards:
   NIST-800-53:
     AC-1: {}

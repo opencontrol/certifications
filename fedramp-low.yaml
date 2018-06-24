@@ -2,7 +2,7 @@
 # Current as of 18-MAY-2016
 # Last (re)validation: 11-NOV-2017
 # https://www.fedramp.gov/resources/documents-2016/
-name: FedRAMP-low
+name: FedRAMP Low
 standards:
 
   NIST-800-53:

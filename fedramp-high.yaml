@@ -2,7 +2,7 @@
 # Current as of 18-MAY-2016
 # Last (re)validation: 11-NOV-2017
 # https://www.fedramp.gov/resources/documents-2016/
-name: FedRAMP-high
+name: FedRAMP High
 standards:
   NIST-800-53:
     AC-1: {}
