@@ -1,8 +1,11 @@
-# Based off the FedRAMP Low Security Controls
-# Current as of 18-MAY-2016
-# Last (re)validation: 11-NOV-2017
-# https://www.fedramp.gov/resources/documents-2016/
-name: FedRAMP Low
+# Based off Table D-2: SECURITY CONTROL BASELINES
+# in NIST 800-53
+# Current as of 2018-JUNE-2018
+#
+# Found on Page D-2 of NIST 800-53 rev 4:
+# https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf
+#
+name: FISMA Low Impact
 standards:
 
   NIST-800-53:
@@ -33,7 +36,6 @@ standards:
     AU-12: {}
     CA-1: {}
     CA-2: {}
-    CA-2 (1): {}
     CA-3: {}
     CA-5: {}
     CA-6: {}
@@ -54,16 +56,13 @@ standards:
     CP-9: {}
     CP-10: {}
     IA-1: {}
-    IA-2: {}
     IA-2 (1): {}
     IA-2 (12): {}
     IA-4: {}
-    IA-5: {}
     IA-5 (1): {}
     IA-5 (11): {}
     IA-6: {}
     IA-7: {}
-    IA-8: {}
     IA-8 (1): {}
     IA-8 (2): {}
     IA-8 (3): {}
@@ -111,7 +110,7 @@ standards:
     SA-1: {}
     SA-2: {}
     SA-3: {}
-    SA-4: {}
+    SA-4 (10): {}
     SA-5: {}
     SA-9: {}
     SC-1: {}
@@ -130,4 +129,3 @@ standards:
     SI-4: {}
     SI-5: {}
     SI-12: {}
-    SI-16: {}
