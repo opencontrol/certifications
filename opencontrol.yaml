@@ -10,6 +10,7 @@ certifications:
   - ./icd-503-low.yaml
   - ./icd-503-moderate.yaml
   - ./icd-503-high.yaml
+  - ./fedramp-tailored.yaml
   - ./fedramp-low.yaml
   - ./fedramp-moderate.yaml
   - ./fedramp-high.yaml
